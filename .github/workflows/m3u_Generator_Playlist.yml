@@ -40,8 +40,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x autorun.sh
-          ./autorun.sh
+          chmod +x autorunm3u.sh
+          ./autorunm3u.sh
         
       - name: git add
         run: |
