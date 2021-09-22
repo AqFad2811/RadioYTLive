@@ -1,9 +1,9 @@
 
-<h1 align="center"> YouTube_to_m3u </h1>
+<h1 align="center"> RadioYTLive </h1>
 
-[![M3U generator for YouTube](https://github.com/AqFad2811/YouTube_to_m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/AqFad2811/YouTube_to_m3u/actions/workflows/m3u_Generator.yml)
+[![M3U generator for YouTube](https://github.com/AqFad2811/RadioYTLive/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/AqFad2811/RadioYTLive/actions/workflows/m3u_Generator.yml)
 
-`https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/youtube.m3u`
+`https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u`
 
 Updated m3u links of YouTube live channels, **auto-updated every 3 hours**.
 
