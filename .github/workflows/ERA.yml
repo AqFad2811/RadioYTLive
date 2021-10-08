@@ -41,8 +41,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x autorun7.sh
-          ./autorun7.sh
+          chmod +x ERA.sh
+          ./ERA.sh
         
       - name: git add
         run: |
