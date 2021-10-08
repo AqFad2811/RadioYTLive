@@ -41,8 +41,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x autorun9.sh
-          ./autorun9.sh
+          chmod +x SINAR.sh
+          ./SINAR.sh
         
       - name: git add
         run: |
