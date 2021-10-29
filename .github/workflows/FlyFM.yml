@@ -41,8 +41,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x flyfm.sh
-          ./flyfm.sh
+          chmod +x FlyFM.sh
+          ./FlyFM.sh
         
       - name: git add
         run: |
