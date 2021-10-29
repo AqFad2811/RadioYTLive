@@ -41,8 +41,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x 8fm.sh
-          ./8fm.sh
+          chmod +x 8FM.sh
+          ./8FM.sh
         
       - name: git add
         run: |
