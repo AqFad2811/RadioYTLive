@@ -1,7 +1,7 @@
 
 <h1 align="center"> RadioYTLive </h1>
 
-[![M3U generator for YouTube](https://github.com/AqFad2811/RadioYTLive/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/AqFad2811/RadioYTLive/actions/workflows/m3u_Generator.yml)
+[![M3U generator for YouTube](https://github.com/AqFad2811/RadioYTLive/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/AqFad2811/RadioYTLive/actions/workflows/ERA.yml)
 
 `https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u`
 
