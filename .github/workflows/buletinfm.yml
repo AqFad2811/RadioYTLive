@@ -41,8 +41,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x autorun2.sh
-          ./autorun2.sh
+          chmod +x buletinfm.sh
+          ./buletinfm.sh
         
       - name: git add
         run: |
