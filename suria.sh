@@ -6,6 +6,6 @@ python3 -m pip install requests
 
 cd $(dirname $0)/scripts/
 
-python3 youtube_m3ugrabber5.py > ../SuriaFM.m3u8
+python3 suria.py > ../SuriaFM.m3u8
 
 echo m3u grabbed
