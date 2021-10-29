@@ -5,7 +5,7 @@ name: Fly FM
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: '0 0/1 * * *'
+    - cron: '0 0/3 * * *'
     
   pull_request:
     branches:
@@ -41,8 +41,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x autorun3.sh
-          ./autorun3.sh
+          chmod +x flyfm.sh
+          ./flyfm.sh
         
       - name: git add
         run: |
