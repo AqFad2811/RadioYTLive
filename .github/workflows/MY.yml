@@ -41,8 +41,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x autorun8.sh
-          ./autorun8.sh
+          chmod +x MY.sh
+          ./MY.sh
         
       - name: git add
         run: |
