@@ -41,8 +41,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x autorun6.sh
-          ./autorun6.sh
+          chmod +x hitz.sh
+          ./hitz.sh
         
       - name: git add
         run: |
