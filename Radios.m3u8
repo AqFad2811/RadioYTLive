@@ -1,16 +1,16 @@
 #EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg"
 
 #EXTINF:-1 group-title="Media Prima Audio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400" tvg-id="CHN", Hot FM
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642962680/ei/mErtYfzhAcPkigTJkIzoCQ/ip/52.165.165.12/id/l_8lsIWzgtQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgKcuH7LyBYC0dSg-aW4RwQ7MywOVGaddNY1yp1cdZnA0CIQDLYRMKlOntVZJw0QdF1CiqkgktItWigYI4e_biThrE9Q%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
 
 #EXTINF:-1 group-title="Media Prima Audio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801172624" tvg-id="CHN", Buletin FM
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642962680/ei/mErtYbHWGqSxlu8P5cuLsA8/ip/52.165.165.12/id/IOOAOyredNI.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJACRsxyNS48vRETRIR0m2KAJW6__QiADVDDdeR9Jt2cAiB0MXtUgcSEsdTNHySCdRDVhTYPWz_X5mQWL3KixHQwxA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
 
 #EXTINF:-1 group-title="Media Prima Audio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738" tvg-id="CHN", Fly FM
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642962681/ei/mErtYf7IO4HeuAKy6Y3YCQ/ip/52.165.165.12/id/MCti5WfPTnI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOcJ1C0btVSHtYZFRrKuO1F7iSIAQwe7PUPc3FEC3OxBAiAe4WQsvGsFxJ7ARXF9XMcFnWXHcTrh2xc0QKTtRSjFDg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
 
 #EXTINF:-1 group-title="Media Prima Audio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png/revision/latest/scale-to-width-down/200?cb=20210801172242" tvg-id="CHN", 8FM
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642962681/ei/mUrtYYruGo2-lu8PiqWraA/ip/52.165.165.12/id/GOiCIPAtdHA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgbQNrIj68kVJy83eMU6TopfoOI8w5TAgD_GjSiqDDI_wCID5hPir3cEFzoH5FAiRly3VVOkhIaBbZB83AmQjf40hj/file/index.m3u8
+https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
 
 #EXTINF:-1 group-title="Star Media Group Berhad" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN" tvg-id="CHN", Suria FM
 https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
 https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
 
 #EXTINF:-1 group-title="Astro Radio" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" tvg-id="ERA", ERA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642962684/ei/nErtYZ2uM-iLir4P7dWfqAw/ip/52.165.165.12/id/OgtiiNnzmEc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANo-bZDTTIX3VtHm-Mza4zEfmdcok8JVEGovRNKwgCa9AiAJzb4XwOh7SOArDANKZd4PixKswXCuVgTg3Ei-5kTDpQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
 
 #EXTINF:-1 group-title="Astro Radio" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" tvg-id="SINAR", SINAR
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642962685/ei/nUrtYdOiEIHeuAKy6Y3YCQ/ip/52.165.165.12/id/35OB2Hy20f4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPfjQdaA6NBl3t1Cb6rXu03EnXfLQAMNkOPwzfRBxqrWAiAtT8zU4LMtR5q7vABblDMsOZO5YOZLdyYOiuSq48S3YQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
