@@ -1,16 +1,16 @@
 #EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg"
 
 #EXTINF:-1 group-title="Media Prima Audio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400" tvg-id="CHN", Hot FM
-https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644150203/ei/W2n_YfKkIo3lkgaG9qRQ/ip/20.106.100.167/id/l_8lsIWzgtQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKjcS4z3HQ7UENQS7wSh3P0b65wdDdPqdIXRGFo0kYDaAiEA8GDNcjO0WsFDhg-hQkomgRV74Sopkq-5YLGFUwIt1zs%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Media Prima Audio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801172624" tvg-id="CHN", Buletin FM
-https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644150204/ei/XGn_Yba6AcfXkgbU3qFQ/ip/20.106.100.167/id/IOOAOyredNI.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/23886220/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgalYv8bYzx1CqyVi7SUey33JlUsWfEFYkLA4-1S_qWusCIF-aW-os0uBy4DHvZKpHVSm2z4RSuhKW-qlzNc3ubMFq/file/index.m3u8
 
 #EXTINF:-1 group-title="Media Prima Audio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738" tvg-id="CHN", Fly FM
-https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644150204/ei/XGn_YZ6gHca6kwbq26jABg/ip/20.106.100.167/id/MCti5WfPTnI.1/source/yt_live_broadcast/requiressl/yes/tx/24027691/txs/24027691%2C24027692%2C24027693%2C24027694%2C24067852/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgPUM61xBR7mohSkY2Fx_mJBhBJ8EWrewbEbhhPVZN_4gCIQCntJm5IVEmx3OxwUyYWMEB986arWxHPD86w02vA4Mzyg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Media Prima Audio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png/revision/latest/scale-to-width-down/200?cb=20210801172242" tvg-id="CHN", 8FM
-https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644150204/ei/XGn_YfHPNov7kgaSka34Ag/ip/20.106.100.167/id/GOiCIPAtdHA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGng0dvBo_mZID5mQU5xuvHRfw0_1iNku1LG1J9mJah4CIQCAKkronDLJFvV64ujSHlQuOwUaZB--HY4zJBZcp_RKxw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Star Media Group Berhad" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN" tvg-id="CHN", Suria FM
 https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
 https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
 
 #EXTINF:-1 group-title="Astro Radio" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" tvg-id="ERA", ERA
-https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644150210/ei/YWn_YfDHPJmSkgbhhLb4DQ/ip/20.106.100.167/id/OgtiiNnzmEc.1/source/yt_live_broadcast/requiressl/yes/tx/24027702/txs/24027699%2C24027700%2C24027701%2C24027702%2C24067854/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC_4hEMHpeoO9pSM1fAN2Fwxm/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPKxoTQ2HQ8mKmJ_Nlz8lV3dp2zNcGBjo9L9CFwCnB8zAiAfhrrvh_jVAmgqE3tOh38kA8YTwHlFS7W6SJCmAQzR1Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Astro Radio" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" tvg-id="SINAR", SINAR
 https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8
