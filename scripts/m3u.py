@@ -15,12 +15,12 @@ def grab(url):
         #response = requests.get(url).text
         if '.m3u8' not in response:
             if windows:
-                print('https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8')
+                print('https://onedrive.aqfadtv.xyz/api/raw/?path=/harapmaaf.mp4')
                 return
             os.system(f'wget {url} -O temp.txt')
             response = ''.join(open('temp.txt').readlines())
             if '.m3u8' not in response:
-                print('https://raw.githubusercontent.com/AqFad2811/myiptv/main/testcard/info.m3u8')
+                print('https://onedrive.aqfadtv.xyz/api/raw/?path=/harapmaaf.mp4')
                 return
     end = response.find('.m3u8') + 5
     tuner = 100
