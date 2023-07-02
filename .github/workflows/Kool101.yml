@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Buletin FM
+name: Kool 101
 
 # Controls when the action will run. 
 on:
@@ -41,8 +41,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x buletinfm.sh
-          ./buletinfm.sh
+          chmod +x Kool101.sh
+          ./Kool101.sh
         
       - name: git add
         run: |
