@@ -13,12 +13,12 @@ def grab(url):
     response = s.get(url, timeout=15).text
     if '.m3u8' not in response:
         if windows:
-            print('https://raw.githubusercontent.com/AqFad2811/video/main/harapmaaf/harapmaaf.m3u8')
+            print('https://raw.githubusercontent.com/AqFad2811/video/main/staytuned/index.m3u8')
             return
         os.system(f'wget {url} -O temp.txt')
         response = ''.join(open('temp.txt').readlines())
         if '.m3u8' not in response:
-            print('https://raw.githubusercontent.com/AqFad2811/video/main/harapmaaf/harapmaaf.m3u8')
+            print('https://raw.githubusercontent.com/AqFad2811/video/main/staytuned/index.m3u8')
             return
     end = response.find('.m3u8') + 5
     tuner = 100
@@ -40,7 +40,7 @@ print('#EXTM3U')
 print('#EXT-X-VERSION:3')
 print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
 s = requests.Session()
-with open('../buletinfm_info.txt') as f:
+with open('../kool101_info.txt') as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
