@@ -6,6 +6,6 @@ python3 -m pip install requests
 
 cd $(dirname $0)/scripts/
 
-python3 buletinfm.py > ../BuletinFM.m3u8
+python3 kool101.py > ../Kool101.m3u8
 
 echo m3u grabbed
