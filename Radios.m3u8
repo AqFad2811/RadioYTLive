@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/AqFad2811/video/main/harapmaaf/harapmaaf.m3u8
 https://raw.githubusercontent.com/AqFad2811/video/main/harapmaaf/harapmaaf.m3u8
 
 #EXTINF:-1 group-title="Media Prima Audio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Eight_FM_2023.svg/revision/latest/scale-to-width-down/250?cb=20230801055915" tvg-id="CHN",Eight FM
-https://raw.githubusercontent.com/AqFad2811/video/main/harapmaaf/harapmaaf.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732925291/ei/CwNKZ-fSLK-b2_gPrJKy8Aw/ip/172.183.132.89/id/o1ipHJUfFTM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAW8_hOU3i9c9-_P3G4ikf5DFor6bffnHUDOfIakvTqODK9HZ65d13SjHTRU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDtNH1_-NxWNI0yt1tUOUJcTRTz7naZydJspXy5sdTFgCIAsXi9zWIFhWj5l1_eBihEtlUponRkea9e85xa4XD_zs/file/index.m3u8
 
 #EXTINF:-1 group-title="Media Prima Audio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Molek_FM.svg/revision/latest/scale-to-width-down/250?cb=20220103100925" tvg-id="CHN",Molek FM
 https://raw.githubusercontent.com/AqFad2811/video/main/harapmaaf/harapmaaf.m3u8
