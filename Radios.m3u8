@@ -4,7 +4,7 @@
 https://raw.githubusercontent.com/AqFad2811/video/main/harapmaaf/harapmaaf.m3u8
 
 #EXTINF:-1 group-title="Media Prima Audio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/KOOL_101_2023.svg/revision/latest/scale-to-width-down/300?cb=20230709151612" tvg-id="CHN",Kool 101
-https://raw.githubusercontent.com/AqFad2811/video/main/harapmaaf/harapmaaf.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1736651146/ei/Kt2CZ6OwNaP2sfIPoJHFgQo/ip/52.234.41.139/id/iADquXM2ijo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51356811/txs/51356811%2C51356812/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-MK8Xb0d2GM1FEHej_tbFeM9KA-R7ZFoxUOw_6C72qypi5pjgoOIG077CrhwSejQitbrKdL9XzQ/spc/9kzgDW52bNKNWHBJYTjLXOY8RD0IkHFVd3WdrG79N-5xUarwlbxKeRHDkYwZOe8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgLdsIVfi0C3IpBwOa9Ij5dPMtBM_KbPqaD_kRJ1sxztwCIQDnagYYpSSxbKwHe3poDzejsF6z-Z7eYWuPfiG-9SrIqQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Media Prima Audio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738" tvg-id="CHN",Fly FM
 https://raw.githubusercontent.com/AqFad2811/video/main/harapmaaf/harapmaaf.m3u8
@@ -13,4 +13,4 @@ https://raw.githubusercontent.com/AqFad2811/video/main/harapmaaf/harapmaaf.m3u8
 https://raw.githubusercontent.com/AqFad2811/video/main/harapmaaf/harapmaaf.m3u8
 
 #EXTINF:-1 group-title="Media Prima Audio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Molek_FM.svg/revision/latest/scale-to-width-down/250?cb=20220103100925" tvg-id="CHN",Molek FM
-https://raw.githubusercontent.com/AqFad2811/video/main/harapmaaf/harapmaaf.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1736651149/ei/Ld2CZ8KjNNvXsfIP6Mf06AY/ip/52.234.41.139/id/10xKxqHJFE4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-PSH4ulWlKZAm6rD-mfXmNsHAVIOdeqAdel0_Pdyx3ryuT6AOlZMJEeKYFy80xc3ooHXfJq0SPl/spc/9kzgDWESUSs_yKFcYmme57elRSP3TNZKBPq3g_wY7kMYDhSQIf5MzdArkSUrF2c/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVLYQMV1yhMLNenTdD_6uHUIQcagbaAvLPzuXHkCtJd8CIQDKoLH9ZjoWNkXYLPpgY2RWA-KNm6BY3F02HtIdU77qcA%3D%3D/file/index.m3u8
