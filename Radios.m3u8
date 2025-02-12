@@ -4,13 +4,13 @@
 https://raw.githubusercontent.com/AqFad2811/video/main/harapmaaf/harapmaaf.m3u8
 
 #EXTINF:-1 group-title="Media Prima Audio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/KOOL_101_2023.svg/revision/latest/scale-to-width-down/300?cb=20230709151612" tvg-id="CHN",Kool 101
-https://raw.githubusercontent.com/AqFad2811/video/main/harapmaaf/harapmaaf.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1739415954/ei/Mg2tZ-_3Bb-KsfIP-IjU8QY/ip/20.169.14.41/id/iADquXM2ijo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3wTCggaOLXHbNCPzBuKU9tnBgKYO5dzlwIrBXcxMjANRTqbRBvDdT2TFO96QM68GPVhpmzksFw3/spc/RjZbScGG66KPb6b-L1USblKZmSZCPcye9jUCIjE8qgkcpsYRzWAmIMh9IgGbZukclMqyPBw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgdg90eRDVUsj-U2ipNUW1GcmnVMj7Pw5R4lHKTir9_LwCIQCl5iLO7hfKkI5dj_cdhbR67OICNQTNB3uzjYQ9TPn3yg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Media Prima Audio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738" tvg-id="CHN",Fly FM
 https://raw.githubusercontent.com/AqFad2811/video/main/harapmaaf/harapmaaf.m3u8
 
 #EXTINF:-1 group-title="Media Prima Audio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Eight_FM_2023.svg/revision/latest/scale-to-width-down/250?cb=20230801055915" tvg-id="CHN",Eight FM
-https://raw.githubusercontent.com/AqFad2811/video/main/harapmaaf/harapmaaf.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1739415955/ei/Mw2tZ-67Co2UsfIPz5eQkAk/ip/20.169.14.41/id/RTNdfD-ZKes.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3yXV3mdmA-olgtNIeFL-S3vxl94Yqip4W-gpiQB96Zl3jHS5G24yoyyRNVRj78W2NLxla-bJIIf/spc/RjZbSf6MtHsJXURZXz6NOvCUjB5r32kNXKIEb4VPDrEb9BZGEUkXynALHICOx9gbXyY6Ua4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANcMUB7_1b4yVKiTWRUL1aohGnGhXAzjvrGfEI62JG13AiEA6xIARXPTxeaVUlQow0gRMtJ0QzpcHcPSeKj56Oit7xQ%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Media Prima Audio" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Molek_FM.svg/revision/latest/scale-to-width-down/250?cb=20220103100925" tvg-id="CHN",Molek FM
 https://raw.githubusercontent.com/AqFad2811/video/main/harapmaaf/harapmaaf.m3u8
